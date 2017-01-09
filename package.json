@@ -1,6 +1,6 @@
 {
   "name": "@northbrook/buba",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Build your northbrook projects with Buba",
   "main": "lib/index.js",
   "scripts": {
